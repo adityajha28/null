@@ -124,7 +124,7 @@ if (window.location.href.includes('dashboard.html')) {
 This example should give you a basic framework to implement the described functionality. Adjustments might be needed based on the specifics of your web application.
 
 
-Certainly! Here's an improved version that includes better organization, optimization, and additional comments for clarity:
+## Certainly! Here's an improved version that includes better organization, optimization, and additional comments for clarity:
 
 **HTML (index.html):**
 
